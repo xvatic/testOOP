@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="700.0" prefWidth="700.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="shapeshooser.Controller">
+   <children>
+      <Button fx:id="drawRect" layoutX="107.0" layoutY="33.0" mnemonicParsing="false" onAction="#draw" text="DRAW SHAPES" />
+      <Button fx:id="drawSquare" layoutX="208.0" layoutY="33.0" mnemonicParsing="false" text="Square" visible="false" />
+      <Button fx:id="drawRhombus" layoutX="278.0" layoutY="33.0" mnemonicParsing="false" text="Rhombus" visible="false" />
+      <Button fx:id="drawCircle" layoutX="199.0" layoutY="92.0" mnemonicParsing="false" text="Circle" visible="false" />
+      <Button fx:id="drawOval" layoutX="124.0" layoutY="92.0" mnemonicParsing="false" text="Oval" visible="false" />
+      <ColorPicker fx:id="colorpicker" layoutX="461.0" layoutY="47.0" />
+      <Canvas fx:id="canvas" height="453.0" layoutX="13.0" layoutY="234.0" width="667.0" />
+   </children>
+</AnchorPane>
