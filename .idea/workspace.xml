@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f6effc9-728a-4cd1-ada8-e06ad5c7e17d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/shapeshooser/ShapeArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Rhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapeshooser/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapeshooser/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapeshooser/Rhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/LineDirect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapeshooser/tk.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/tk.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
       <list>
         <option value="FxmlFile" />
         <option value="module-info" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -78,6 +80,14 @@
       <option name="presentableId" value="Default" />
       <updated>1580835136497</updated>
     </task>
+    <task id="LOCAL-00001" summary="OwnList">
+      <created>1582279612950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582279612951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OwnList" />
+    <option name="LAST_COMMIT_MESSAGE" value="OwnList" />
   </component>
 </project>

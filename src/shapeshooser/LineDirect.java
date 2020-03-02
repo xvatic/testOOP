@@ -1,16 +1,18 @@
 package shapeshooser;
 
-public class Rhombus extends Shape {
+public class LineDirect extends Shape {
     private static final String NAME="Rhombus";
 
     private double side;
     private double  X;
     private double  Y;
 
-    public Rhombus(double side,double x,double y){
+
+    public LineDirect(double side, double x, double y){
         this.side = side;
         this.X = x;
         this.Y = y;
+
     }
 
 
