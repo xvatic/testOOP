@@ -2,7 +2,7 @@ package shapeshooser;
 
 public class Square extends Shape {
 
-    private static final String NAME = "Circle";
+    private static final String NAME = "Square";
     private double width;
     private double  X;
     private double  Y;

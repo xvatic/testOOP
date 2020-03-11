@@ -11,16 +11,16 @@
    <children>
       <Button fx:id="drawRect" layoutX="68.0" layoutY="33.0" mnemonicParsing="false" onAction="#draw" text="DRAW SHAPES" />
       <ColorPicker fx:id="colorpicker" layoutX="461.0" layoutY="47.0" />
-      <Canvas fx:id="canvas" height="453.0" layoutX="13.0" layoutY="234.0" width="667.0" />
-      <RadioButton layoutX="206.0" layoutY="38.0" mnemonicParsing="false" text="Circle">
+      <Canvas fx:id="canvas" height="465.0" layoutX="-1.0" layoutY="234.0" width="700.0" />
+      <RadioButton fx:id="rbCircle" layoutX="206.0" layoutY="38.0" mnemonicParsing="false" text="Circle">
          <toggleGroup>
             <ToggleGroup fx:id="tgShapes" />
          </toggleGroup>
       </RadioButton>
-      <RadioButton layoutX="206.0" layoutY="147.0" mnemonicParsing="false" text="Triangle" toggleGroup="$tgShapes" />
-      <RadioButton layoutX="206.0" layoutY="119.0" mnemonicParsing="false" text="Square" toggleGroup="$tgShapes" />
-      <RadioButton layoutX="206.0" layoutY="92.0" mnemonicParsing="false" text="Rectangle" toggleGroup="$tgShapes" />
-      <RadioButton layoutX="206.0" layoutY="65.0" mnemonicParsing="false" text="Oval" toggleGroup="$tgShapes" />
-      <RadioButton layoutX="206.0" layoutY="177.0" mnemonicParsing="false" text="Line" toggleGroup="$tgShapes" />
+      <RadioButton fx:id="rbTriangle" layoutX="206.0" layoutY="147.0" mnemonicParsing="false" text="Triangle" toggleGroup="$tgShapes" />
+      <RadioButton fx:id="rbSquare" layoutX="206.0" layoutY="119.0" mnemonicParsing="false" text="Square" toggleGroup="$tgShapes" />
+      <RadioButton fx:id="rbRectangle" layoutX="206.0" layoutY="92.0" mnemonicParsing="false" text="Rectangle" toggleGroup="$tgShapes" />
+      <RadioButton fx:id="rbOval" layoutX="206.0" layoutY="65.0" mnemonicParsing="false" text="Oval" toggleGroup="$tgShapes" />
+      <RadioButton fx:id="rbLine" layoutX="206.0" layoutY="177.0" mnemonicParsing="false" text="Line" toggleGroup="$tgShapes" />
    </children>
 </AnchorPane>

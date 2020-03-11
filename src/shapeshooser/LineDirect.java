@@ -1,15 +1,17 @@
 package shapeshooser;
 
 public class LineDirect extends Shape {
-    private static final String NAME="Rhombus";
+    private static final String NAME="Line";
 
     private double side;
     private double  X;
     private double  Y;
+    private double  height;
 
 
-    public LineDirect(double side, double x, double y){
+    public LineDirect(double side, double heigth, double x, double y){
         this.side = side;
+        this.height = heigth;
         this.X = x;
         this.Y = y;
 
@@ -38,6 +40,6 @@ public class LineDirect extends Shape {
 
     @Override
     public double getHeight() {
-        return side;
+        return height;
     }
 }
