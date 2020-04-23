@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6f6effc9-728a-4cd1-ada8-e06ad5c7e17d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shapeshooser/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Controller$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB1/shapeshooser/Controller.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/shapeshooser/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shapeshooser/LineDirect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/LineDirect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shapeshooser/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shapeshooser/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shapeshooser/tk.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeshooser/tk.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582279612951</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OwnList">
+      <created>1583886327663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583886327663</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
